@@ -1,0 +1,73 @@
+@media (max-width: 767px) {
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+}
+
+
+
+
+
+
+
+
+
+
+.nav h5 {
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+li {
+    font-family: sans-serif;
+    list-style: none;
+    font-size: 13px;
+    float: left;
+    padding: 1px 15px;
+}
+ul li a {
+text-decoration:none;
+    color: #fff;
+}
+button.btn.btn-primary {
+    font-weight: 500;
+    font-size: 12px;
+    font-family: inherit;
+    letter-spacing: 0.9px;
+    border-radius: 4rem;
+    padding: 10px 20px;
+}
+button.btn.btn-outline-primary {
+    border-color: #fff;
+    color: #fff;
+    font-weight: 500;
+    font-size: 12px;
+    font-family: inherit;
+    letter-spacing: 0.9px;
+    border-radius: 4rem;
+    padding: 10px 20px;
+}
+h5 {
+    font-weight: 600;
+}
+h3 {
+    font-weight: 600;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+p {
+    margin-bottom: 24px;
+}
+.content {
+    padding-top: 11rem;
+}
+.bindas {
+    color: #fff;
+    height: 37rem;
+    background-image: url(images/pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.nav {
+    padding-top: 2rem;
+}
+
